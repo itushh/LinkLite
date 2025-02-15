@@ -23,22 +23,14 @@
    git clone https://github.com/yourusername/linklite.git
    cd linklite
    ```
-2. **Update @/firebase.json**
-    ```json
-    {
-        "type": "service_account",
-        "project_id": "<your private keys>",
-        "private_key_id": "<your private keys>",
-        "private_key": "<your private keys>",
-        "client_email": "<your private keys>",
-        "client_id": "<your private keys>",
-        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-        "token_uri": "https://oauth2.googleapis.com/token",
-        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-        "client_x509_cert_url": "<your private keys>",
-        "universe_domain": "googleapis.com"
-    }
-  
+2. **Add env variables**
+    ```plain text
+    FIREBASE_PROJECT_ID
+    FIREBASE_PRIVATE_KEY_ID
+    FIREBASE_PRIVATE_KEY
+    FIREBASE_CLIENT_EMAIL
+    FIREBASE_CLIENT_ID
+    FIREBASE_CLIENT_CERT_URL
     ```
 3. **Install Dependancies**
     ```bash
