@@ -10,7 +10,7 @@
 
 ✨ Transform long URLs into sleek, manageable links with our minimalist solution. Perfect for developers who value simplicity and efficiency. 🚀
 
-[![Live Demo](https://img.shields.io/badge/Visit%20Site-Live%20Demo-2ea44f?style=for-the-badge&logo=vercel)](https://your-vercel-app.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Visit%20Site-Live%20Demo-2ea44f?style=for-the-badge&logo=vercel)](https://link-lite-tau.vercel.app)
 
 </center>
 
